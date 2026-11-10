@@ -24,3 +24,4 @@ Destaques relacionados a X-Caboquinho, cappuccino e farofas citados em avaliaç�
 2. Suba a pasta para um repositório no GitHub e importe na Vercel.
 3. Framework: `Other`; Build command: vazio; Output directory: vazio. Deploy.
 4. Para usar o ZIP geral, escolha no GitHub uma pasta por projeto ou configure `Root Directory` com a pasta desejada.
+# cafe-com-fofoca-premium
